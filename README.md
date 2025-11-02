@@ -7,16 +7,15 @@ I started my coding journey with a **simple attendance tracker** in July 2025. T
 
 ## My Journey
 
-- **First Steps** — *TL;DR: Wrote code → It worked → People used it → Got hooked.*  
+- **First Steps** 
   My initial project was an attendance tracker, which has **over *50 users**** using it. It is a simple, practical tool that taught me the basics of coding, version control, and problem-solving.
 
-- **Growth** — *TL;DR: Solved my own problems → Accidentally built apps → Now shipping them.*  
+- **Growth** 
   As I gained confidence, I began exploring web technologies and automation, creating small apps and scripts to solve everyday problems. Apps are in progress to be uploaded on the Google Play store.
 
-- **AI & Research** — *TL;DR: Tried to build Skynet on my laptop → Laptop nearly died → Learned cloud computing.*  
+- **AI & Research**
   Most recently, I've focused on machine learning, working with models like Flan-T5. I trained at **over 99% accuracy** tuned, and deployed AI solutions, and in the process learned a valuable lesson through my first project, which was a disaster that almost burned my laptop's battery trying to train a large dataset. Ever since, I use Google Colab.
 
-- **Compiler Design** - Work in progress!
 
 ## Featured Projects
 
