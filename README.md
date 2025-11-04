@@ -1,24 +1,6 @@
 # Aman Githala
 Hi!!
 
-## About Me
-
-I started my coding journey with a **simple attendance tracker** in July 2025. Today, my repositories reflect a range of interests, from automation and web development to machine learning and AI.
-
-## My Journey
-
-- **First Steps** 
-  My initial project was an attendance tracker, which has **over *50 users**** using it. It is a simple, practical tool that taught me the basics of coding, version control, and problem-solving.
-
-- **Growth** 
-  As I gained confidence, I began exploring web technologies and automation, creating small apps and scripts to solve everyday problems. Apps are in progress to be uploaded on the Google Play store.
-
-- **AI & Research**
-  Most recently, I've focused on machine learning, working with models like Flan-T5. I trained at **over 99% accuracy** tuned, and deployed AI solutions, and in the process learned a valuable lesson through my first project, which was a disaster that almost burned my laptop's battery trying to train a large dataset. Ever since, I use Google Colab.
-
-
-## Featured Projects
-
 Take a look at my repositories below for details on my journey, from initial scripts to **advanced AI models**.
 
 ---
