@@ -1,4 +1,4 @@
-# Hey, I'm Aman 👋
+# Hey, I'm Aman 
 
 CS sophomore at Faculty of Technology, University of Delhi.  
 I build things in the distributed systems and ML infrastructure space.
