@@ -8,14 +8,11 @@
 
 Building systems that catch failures before they happen.
 
-CS @ Faculty of Technology, University of Delhi · Co-founder & CEO, [quavyn](https://quavyn.in)
+CS @ Faculty of Technology, University of Delhi
 
 ---
 
 **currently**
-
-→ **quavyn — AI market intelligence for founders**
-Connecting internal company data, market signals, and global events into one system that tells founders what is happening and what to do next. Pre-launch, first pilots onboarding.
 
 → **Entropy-based failure detection in distributed systems**
 Partial Information Decomposition as an architecture-selection diagnostic over distributed telemetry. Building a labeled Kafka fault dataset from scratch — JMX/Prometheus scraping + controlled fault injection — because one did not exist.
@@ -37,8 +34,8 @@ DAG-based container workflows with ONNX inference, gRPC microservices, and a clo
 
 **elsewhere**
 
-- Google BigCode 2025 — top 5,000 out of 120,000+ participants globally
-- LeetCode max rating 1751 · Codeforces max rating 1349
+- Google BigCode 2025 — top 15,000 out of 120,000+ participants globally
+- LeetCode max rating 1751 
 
 ---
 
